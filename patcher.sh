@@ -23,7 +23,7 @@ cd $ROM_TREE/external/libopus
 git clean -f -d && git reset --hard
 cd $ROM_TREE/external/libvpx
 git clean -f -d && git reset --hard
-cd $ROM_TREE/esternal/tremolo
+cd $ROM_TREE/external/tremolo
 git clean -f -d && git reset --hard
 cd $ROM_TREE/frameworks/av
 git clean -f -d && git reset --hard
